@@ -28,6 +28,10 @@ class UserController extends AppController {
     }
 
     public function loginAction(){
+        echo json_encode(array(
+            'method' => 'DELETE',
+            'id' => $_GET
+        ));
         if(!empty($_POST)){
             $user = new User();
             if($user->login()){
@@ -35,10 +39,6 @@ class UserController extends AppController {
             }else{
                 $_SESSION['error'] = 'Логин/пароль введены неверно';
             }
-            echo json_encode(array(
-                'method' => 'DELETE',
-                'id' => $_POST
-            ));
             //redirect();
         }
         $this->setMeta('Вход');

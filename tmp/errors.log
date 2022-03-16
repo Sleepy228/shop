@@ -487,3 +487,35 @@
 =================
 [2022-03-14 18:22:10] Текст ошибки: Контроллер app\controllers\LoginController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
 =================
+[2022-03-14 18:50:40] Текст ошибки: Контроллер app\controllers\ApiController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2022-03-14 18:50:40] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2022-03-14 19:01:02] Текст ошибки: Контроллер app\controllers\ApiController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2022-03-14 19:01:03] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2022-03-14 19:13:05] Текст ошибки: Контроллер app\controllers\ApiController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2022-03-14 19:13:05] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2022-03-14 19:16:07] Текст ошибки: Контроллер app\controllers\LoginController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2022-03-14 19:30:30] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'brand_id' doesn't have a default value | Файл: W:\domains\shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2022-03-14 19:32:21] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'brand_id' doesn't have a default value | Файл: W:\domains\shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2022-03-14 19:34:35] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'brand_id' doesn't have a default value | Файл: W:\domains\shop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2022-03-14 19:52:48] Текст ошибки: Контроллер app\controllers\ApiController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2022-03-14 19:52:48] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2022-03-14 20:12:41] Текст ошибки: Контроллер app\controllers\ApiController не найден | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2022-03-14 20:12:41] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2022-03-16 01:14:33] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2022-03-16 01:14:33] Текст ошибки: Страница не найдена | Файл: W:\domains\shop\vendor\ishop\core\Router.php | Строка: 39
+=================
